@@ -1,0 +1,235 @@
+@font-face{
+	src:url(../fonts/TitilliumWeb-Bold.ttf);
+	font-family: TitilliumWeb-Bold;
+}
+@font-face{
+	src:url(../fonts/TitilliumWeb-Italic.ttf);
+	font-family: TitilliumWeb-Italic;
+}
+@font-face{
+	src:url(../fonts/TitilliumWeb-Light.ttf);
+	font-family: TitilliumWeb-Light;
+}
+@font-face{
+    src:url(../fonts/TitilliumWeb-Regular.ttf);
+    font-family: TitilliumWeb-Regular;
+}
+@font-face{
+    src:url(../fonts/TitilliumWeb-SemiBold.ttf);
+    font-family: TitilliumWeb-SemiBold;
+}
+body{
+	font-family: PTSans-Bold;
+}
+
+
+.header{
+	background-color: #87509c;
+}
+.mainmenu{
+	padding: 20px 0;
+}
+.menu{
+
+}
+.menu a{
+        font-family: TitilliumWeb-Regular;
+    font-size: 22px;
+    color: #fff !important;
+    padding: 5.5px 14px !important;
+    transition: .5s;
+    border-radius: 5px;
+    margin: 0 8px;
+}
+.menu a:hover{
+	color: #fff !important;
+    background-color: #643a79;
+}
+
+/*banner start*/
+.banner{
+        font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 41.5px;
+    color: #fff;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.banner h1{
+        margin-bottom: 50px;
+    
+}
+.custom{
+    font-family: TitilliumWeb-SemiBold;
+    font-size: 18px;
+    color: #fff;
+    background-color: #eb7d4b;
+    border-color: #eb7d4b;
+    padding: 15px 60px;
+}
+/*service start*/
+.service{
+    background-color: #17c2a4;
+}
+.service-title{
+        padding-top: 100px;
+    padding-bottom: 72px;
+}
+.service-title h1{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 40px;
+    color: #fff;
+    letter-spacing: 4px;
+}
+.service-title hr{
+    border-top: 6px solid rgba(0, 0, 0, 0.1);
+    width: 90px;
+}
+.service-title p{
+     font-family: TitilliumWeb-Regular;
+     font-weight: 400;
+     font-size: 18px;
+     color: #fff;
+}
+.single{
+    padding-bottom: 120px;
+
+}
+.service-item{
+}
+.service-item img{
+    margin-bottom: 53px;
+}
+.service-item h3{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 24px;
+}
+.service-item p{
+    font-family: TitilliumWeb-Light;
+    font-weight: 300;
+    font-size: 16px;
+    color: #fff;
+    letter-spacing: 1.5px;
+    line-height: 27px;
+}
+/*service settion*/
+/*team section*/
+.team{
+    background-color: #e7f1f8;
+}
+.team-title{
+        padding-top: 100px;
+    padding-bottom: 72px;
+}
+.team-title h1{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 40px;
+    color: #3c4761;
+    letter-spacing: 4px;
+}
+.team-title hr{
+    border-top: 6px solid rgba(0, 0, 0, 0.1);
+    width: 90px;
+}
+.team-title p{
+     font-family: TitilliumWeb-Regular;
+     font-weight: 400;
+     font-size: 18px;
+     color: #3c4761;
+}
+.team-item img{
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+.team-single{
+        padding-bottom: 120px;
+}
+.team-item h3{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 24px;
+    color: #27283d;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.team-item a{
+    font-family: TitilliumWeb-Regular;
+    font-size: 16px;
+    text-decoration: none;
+}
+.team-item p{
+    font-family: TitilliumWeb-Light;
+    font-weight: 400;
+    font-size: 16px;
+    color: #3c4761;
+    letter-spacing: 1.5px;
+    line-height: 27px;
+    margin-top: 23px;
+}
+/*clint start*/
+.footer-social .btn {
+    padding: 0;
+    width: 35px;
+    height: 35px;
+    line-height: 33px;
+    text-align: center;
+    margin: 0 3px;
+    border: 1px solid #bdd1df;
+    color: #ffffff;
+    background-color: #bdd1df;
+    border-radius: 50%;
+}
+.margin{
+    margin-top: 26px;
+    margin-bottom: 10px;
+}
+/*clint end*/
+/*team section*/
+/*skills*/
+.skills{
+   
+}
+.skills-title{
+        padding-top: 100px;
+    padding-bottom: 72px;
+}
+.skills-title h1{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 40px;
+    color: #3c4761;
+    letter-spacing: 4px;
+}
+.skills-title hr{
+    border-top: 6px solid rgba(0, 0, 0, 0.1);
+    width: 90px;
+}
+.skills-title p{
+     font-family: TitilliumWeb-Regular;
+     font-weight: 400;
+     font-size: 18px;
+     color: #3c4761;
+}
+.bar-title h3{
+    font-family: TitilliumWeb-Bold;
+    font-weight: 700;
+    font-size: 24px;
+    color: #27283d;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 38px;    
+}
+.progresbar{
+    padding-bottom: 120px;
+}  
+.bar-title{
+    padding-left: 21px;
+}
+/*skills*/
